@@ -1,6 +1,6 @@
 // Reference Pinball (1 1/16")
 translate([3000, 0, 1000]){
-	sphere(r=1062.5, $fn=100, center=true);
+	sphere(r=531.25, $fn=100, center=true);
 }
 
 scale([120, 120, 120]){
